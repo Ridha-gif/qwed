@@ -1,0 +1,24 @@
+.heading{
+width:90%;
+font-family:serif;
+font-size:20px;
+color:purple;
+
+}
+#marqueestyle{
+    color:red;
+    font-size: 18px;
+    font-family:monospace;
+}
+#color{
+    background-color: lightcyan;
+    border-style:ridge;
+    border-width:10px ;
+}
+#color:hover{
+    color: palevioletred;
+    text-decoration-line: underline;
+}
+body{
+    background-color:rgb(247, 209, 174)
+}
